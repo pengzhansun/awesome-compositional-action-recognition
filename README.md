@@ -5,7 +5,7 @@ We focus on collection the paper and code in compositional action recognition
 
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Motion_Guided_Attention_Fusion_To_Recognize_Interactions_From_Videos_ICCV_2021_paper.pdf)] Motion Guided Attention Fusion to Recognize Interactions from Videos.
 
-- [[arXiv](https://arxiv.org/pdf/2012.05689.pdf)] Interactive Fusion of Multi-level Features for Compositional Activity Recognition. [[code]([https://github.com/joaanna/something_else](https://github.com/ruiyan1995/Interactive_Fusion_for_CAR))]
+- [[arXiv](https://arxiv.org/pdf/2012.05689.pdf)] Interactive Fusion of Multi-level Features for Compositional Activity Recognition. [[code](https://github.com/ruiyan1995/Interactive_Fusion_for_CAR)]
 
 - [[ACMMM](https://dl.acm.org/doi/pdf/10.1145/3474085.3475472?casa_token=vpmtrdT6DSMAAAAA:E97KG5JVQqGGGmptKQpIIxOrOpAJD6wkStOHKsmh4sDJ6qVB7DVxxkOKXrG-WgCb3CtmEz_nl9dXlg)] Counterfactual Debiasing Inference for Compositional Action Recognition. [[code](https://github.com/pengzhansun/Counterfactual-Debiasing-Network)]
 
