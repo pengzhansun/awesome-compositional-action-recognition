@@ -1,8 +1,6 @@
 # awesome-compositional-action-recognition
 We focus on collection the paper and code in compositional action recognition
 
-## 2020
-
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf)] Something-Else: Compositional Action Recognition With Spatial-Temporal Interaction Networks. [[code](https://github.com/joaanna/something_else)]
 
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Motion_Guided_Attention_Fusion_To_Recognize_Interactions_From_Videos_ICCV_2021_paper.pdf)] Motion Guided Attention Fusion to Recognize Interactions from Videos.
@@ -13,6 +11,6 @@ We focus on collection the paper and code in compositional action recognition
 
 - [[BMVC](https://arxiv.org/pdf/2111.01936.pdf)] Revisiting spatio-temporal layouts for compositional action recognition.
 
-- [[arXiv]([https://arxiv.org/pdf/2111.01936.pdf](https://arxiv.org/pdf/2110.06915.pdf?ref=https://githubhelp.com))] Object-Region Video Transformers.
+- [[arXiv](https://arxiv.org/pdf/2110.06915.pdf?ref=https://githubhelp.com)] Object-Region Video Transformers.
 
 - [[arXiv](https://arxiv.org/pdf/2201.04906.pdf)] Hand-Object Interaction Reasoning.
