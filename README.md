@@ -17,7 +17,7 @@ We welcome your pull requests if you have suggestions for update in this novel a
 
 + [[ACMMM 2021](https://dl.acm.org/doi/pdf/10.1145/3474085.3475472?casa_token=vpmtrdT6DSMAAAAA:E97KG5JVQqGGGmptKQpIIxOrOpAJD6wkStOHKsmh4sDJ6qVB7DVxxkOKXrG-WgCb3CtmEz_nl9dXlg)] Counterfactual Debiasing Inference for Compositional Action Recognition. [[code](https://github.com/pengzhansun/Counterfactual-Debiasing-Network)]
 
-+ [[BMVC 2021](https://arxiv.org/pdf/2111.01936.pdf)] Revisiting spatio-temporal layouts for compositional action recognition. [[code](https://github.com/gorjanradevski/revisiting-spatial-temporal-layouts)]
++ [[BMVC 2021](https://arxiv.org/pdf/2111.01936.pdf)] Revisiting Spatio-temporal Layouts for Compositional Action Recognition. [[code](https://github.com/gorjanradevski/revisiting-spatial-temporal-layouts)]
 
 + [[CVPR 2022](https://arxiv.org/pdf/2110.06915.pdf?ref=https://githubhelp.com)] Object-Region Video Transformers. [[code](https://github.com/eladb3/ORViT)]
 
