@@ -23,6 +23,8 @@ We welcome your pull requests if you have suggestions for update in this novel a
 
 + [[arXiv](https://arxiv.org/pdf/2201.04906.pdf)] Hand-Object Interaction Reasoning.
 
++ [[ACMMM 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3547862)] Look Less Think More: Rethinking Compositional Action Recognition.
+
 ## Dataset
 
 + [[Something-Else](https://github.com/joaanna/something_else)]
